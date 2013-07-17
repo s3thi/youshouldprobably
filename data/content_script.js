@@ -1,3 +1,10 @@
+/*
+  This file is part of You Should Probably.
+  Distributed under the terms of the MIT License.
+  See README.md for more information.
+*/
+
+
 (function() {
 
   function addMessageBox(message) {
