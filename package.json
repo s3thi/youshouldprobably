@@ -1,9 +1,9 @@
 {
   "name": "youshouldprobably",
-  "fullName": "youshouldprobably",
+  "fullName": "You Should Probably",
   "id": "jid1-buzH06gYpReaIA",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "description": "You should probably stop wasting your life and go do something useful instead.",
+  "author": "Ankur Sethi <contact@ankursethi.in>",
+  "license": "MIT",
+  "version": "0.1.0"
 }
