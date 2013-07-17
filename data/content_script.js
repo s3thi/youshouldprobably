@@ -14,6 +14,10 @@
     var closeBtn = document.getElementById('youshouldprobably-close');
     closeBtn.addEventListener('click', function() {
       msgDiv.style.opacity = 0;
+
+      msgDiv.addEventListener('transitionend', function() {
+        msgDiv.style.visibility = 'hidden';
+      });
     });
   }
 
