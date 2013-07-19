@@ -25,8 +25,15 @@
 .youshouldprobably-close {
 	cursor: pointer;
 	margin-left: 10px;
-	border-radius: 2px;
-	padding: 2px;
+	border-radius: 3px;
+	padding: 5px;
 	background-color: white;
 	color: rgb(209, 72, 54);
+	text-transform: uppercase;
+	font-size: 14px;
+	border: solid 1px #C00;
+}
+
+.youshouldprobably-close:hover {
+	border-bottom: solid 3px rgb(140, 48, 36);
 }
